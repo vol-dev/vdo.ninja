@@ -42,6 +42,5 @@ OBS VirtualCam is fully compatible with OBS.Ninja and is useful for connecting M
 Sometimes you may need to stop/restart the VirtualCam if it starts crashing your computer. If you see nothing but "GREY", then you need to start it before using it. See "How to use". If you see just black, its probably because you haven't put anything into OBS yet.
 
 
-<hr>
 [^1]: Needs OBS 26.1 minimum.
 [^2]: Needs OBS 26.1 minimum. Requires v4l2loopback-dkms.
