@@ -11,8 +11,10 @@ order:        2
 # POSTS LIST
 class:       "style1"                         # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic01.jpg"       # config image to post list card (1..6)
-description: >                                # config description to post list card
-  Get your camera inside OBS.ninja quickly
+description: >                                # site meta description
+  Pull your, or a remote guest's, laptop, desktop, or mobile device camera into OBS.
+list_description: >
+  Get your camera inside OBS.ninja
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header
