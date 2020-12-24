@@ -1,3 +1,25 @@
+---
+layout:       post
+title:        "Gallery"
+date:         2020-12-16 11:41:00 +0000
+author:       "Steve Seguin"
+permalink:    gallery
+order:        100
+
+# POSTS LIST
+class:       "style3"                         # config bg-color to post list card (1..6)
+list-image:  "/assets/images/pic03.jpg"       # config image to post list card (1..6)
+description: >                                # site meta description
+  See how OBSN users are leveraging its capabilities in different and creative ways.
+list_description: >
+  OBSN being used around the world
+
+# POST HEADER
+#header-image: "/assets/images/pic13.jpg"      # config image to post header
+#alt-image:    "image description test post a" # config image description to alt att.
+---
+
+
 # Random collection of community submitted examples of OBS.Ninja
 
 (Please feel free to add or remove items from this list)
