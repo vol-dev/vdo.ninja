@@ -11,8 +11,10 @@ order:        7
 # POSTS LIST
 class:       "style1"                         # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic01.jpg"       # config image to post list card (1..6)
-description: >                                # config description to post list card
-  Get your OBS.ninja feed to Zoom
+description: >                                # site meta description
+  Learn how to feed single or multiple guests in a room to a zoom meeting.
+list_description: >
+  OBSN rooms in a zoom meeting
 
 # POST HEADER
 #header-image: "/assets/images/pic13.jpg"      # config image to post header
