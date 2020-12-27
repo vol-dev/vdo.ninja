@@ -29,7 +29,9 @@ To create a 3-person setup though, you can list multiple streams IDs as view val
 
 
 `https://obs.ninja/?view=xxxxxxx,zzzzzz&push=yyyyyy`
+
 `https://obs.ninja/?view=yyyyyy,zzzzzz&push=xxxxxxx`
+
 `https://obs.ninja/?view=xxxxxxx,yyyyyy&push=zzzzzz`
 
 
