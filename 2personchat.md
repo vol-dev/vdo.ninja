@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "2-person chat"
+title:        "Two person chat"
 date:         2020-12-16 10:00:00 +0000
 author:       "Steve Seguin"
 categories:   basic
