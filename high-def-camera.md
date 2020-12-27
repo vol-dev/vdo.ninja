@@ -27,6 +27,13 @@ Multiple parameters can be appended together by using the separating charater "&
 
 `http://obs.ninja/?view=xxxxxxx&bitrate=500&stereo=1`
 
-You might notice the Stream ID values we are using (ie: aaa, bbb, etc); these can be manually created and reused. Use &push=STREAMID to publish a video and &view=STREAMID to remotely view it. If you don't manually specify a stream ID, OBS.Ninja will sometimes generate one for you.
+The default publishing video bitrate of most modern browsers is around 2500-kbps, but we can achieve higher quality if we manually set this to something higher.
 
-To make up a valid stream ID of your own though, choose something with less than 31-characters of length and ensure it's AlpHaNuMerIc-only. A stream ID must also not already be in active use, else you will be provided with an error.
+`http://obs.ninja/?view=xxxxxxx&bitrate=6000`
+
+You'll notice that we added &bitrate=6000 to the viewer's side and not the publishing side.  The viewer gets to control the bitrate; every viewer can set their own custom video bitrate in fact.
+
+On the publishing side, the default target resolution will be 1280x720 @ 60-fps, but we can set this higher by adding &quality=0 to the push link.
+`http://obs.ninja/?push=xxxxxxx&quality=0`
+
+For 1080p60 gaming, you'll want to set the video bitrate to 12000-kbps or higher, as lower bitrates might cause the frame rate to be quite low otherwise.  Otherwise, for talking head-type videos, the default video bitrate is often going to be adequate.
