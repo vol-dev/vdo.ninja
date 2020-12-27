@@ -30,3 +30,11 @@ The downside of this approach is that you'll need to create a custom link for ev
 `https://obs.ninja/?view=xxxxxxx&push=yyyyyy`
 and
 `https://obs.ninja/?view=yyyyyy&push=xxxxxxx`
+
+If you go with a simple group room instead, you won't need to personalize links in this way, but rather just have a single link for multiple guests.
+
+For example,
+`https://obs.ninja/?room=zzzzzzz`
+
+or for something even cleaner,
+`https://obs.ninja/zzzzzzz`
