@@ -27,11 +27,11 @@ You'll notice that here we have the link both PUSHing and VIEWing at the same ti
 
 To create a 3-person setup though, you can list multiple streams IDs as view values, along with three different personalized links.
 
-`
-https://obs.ninja/?view=xxxxxxx,zzzzzz&push=yyyyyy
-https://obs.ninja/?view=yyyyyy,zzzzzz&push=xxxxxxx
-https://obs.ninja/?view=xxxxxxx,yyyyyy&push=zzzzzz
-`
+
+`https://obs.ninja/?view=xxxxxxx,zzzzzz&push=yyyyyy`
+`https://obs.ninja/?view=yyyyyy,zzzzzz&push=xxxxxxx`
+`https://obs.ninja/?view=xxxxxxx,yyyyyy&push=zzzzzz`
+
 
 If you go with a simple group room instead, you won't need to personalize links in this way, but rather just have a single link for multiple guests.
 
