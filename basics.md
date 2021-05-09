@@ -22,7 +22,7 @@ header-image: "/assets/screenshots/Site.png"      # config image to post header
 alt-image:    "image description test post a" # config image description to alt att.
 ---
 
-OBS.Ninja, from this point on: obsn, needs 2 thinks to work:
+OBS.Ninja needs 2 thinks to work:
   - Someone pushing a video feed out from their device
   - Someone viewing that video feed
 
@@ -40,6 +40,11 @@ Copy this view link and send it to someone you want to have access to this feed,
 OBS browser source.
 
 ![OBSN view link](/assets/screenshots/view-link.jpg)
+
+## Cheat Sheet
+
+A printable quickstart guide can be found here:<br />
+<img href="https://github.com/steveseguin/obsninja/blob/quickstart/basicconcepts/OBSN_basic_concepts.jpg" />
 
 ## Powered by WebRTC
 
