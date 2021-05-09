@@ -44,7 +44,7 @@ OBS browser source.
 ## Cheat Sheet
 
 A printable quickstart guide can be found here:<br />
-<img src="https://github.com/steveseguin/obsninja/blob/quickstart/basicconcepts/OBSN_basic_concepts.jpg" title="basic cheat sheet" />
+<img src="https://github.com/steveseguin/obsninja/raw/quickstart/basicconcepts/OBSN_basic_concepts.jpg" title="basic cheat sheet" />
 
 ## Powered by WebRTC
 
