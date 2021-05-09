@@ -15,7 +15,7 @@ list_description: >
   OBSN being used around the world
 
 # POST HEADER
-#header-image: "/assets/images/pic13.jpg"      # config image to post header
+#header-image: "/assets/images/pic09.jpg"      # config image to post header
 #alt-image:    "image description test post a" # config image description to alt att.
 ---
 
