@@ -44,6 +44,8 @@ OBS browser source.
 
 <img src="{{site.url}}/assets/screenshots/view-link.jpg" title="View Link"/>
 
+<img src="{{site.url}}/assets/images/obs.jpg" title="browser source"/>
+
 ## Cheat Sheet
 
 A printable quickstart guide can be found here:<br />
