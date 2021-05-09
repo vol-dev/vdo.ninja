@@ -10,7 +10,7 @@ order:        6
 
 # POSTS LIST
 class:       "style1"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic12.jpg"       # config image to post list card (1..6)
+list-image:  "/assets/images/pic07.jpg"       # config image to post list card (1..6)
 description: >                                # site meta description
   Learn how to leverage OBS.Ninja to bring your phone's camera as a desktop webcam.
 list_description: >
