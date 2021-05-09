@@ -19,15 +19,16 @@ list_description: >
 
 # POST HEADER
 header-image: "/assets/screenshots/Site.png"      # config image to post header
-alt-image:    "image description test post a" # config image description to alt att.
+alt-image:    "OBS.Ninja landing page" # config image description to alt att.
 ---
 
 OBS.Ninja needs 2 thinks to work:
   - Someone pushing a video feed out from their device
   - Someone viewing that video feed
 
-Enter obs.ninja. Click `Add your camera to OBS`.
-Select your device from the list of devices your browser supports.
+1.Visit OBS.Ninja with your web browser (Chrome, Edge, Safari)
+2.Click `Add your camera to OBS`
+3.Select your camera and audio device from the list of devices
 
 <figure>
 <img src="{{site.url}}/assets/screenshots/camera-picker.jpg" title="Camera picker"/>
