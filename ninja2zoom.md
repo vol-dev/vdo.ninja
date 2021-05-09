@@ -10,7 +10,7 @@ order:        7
 
 # POSTS LIST
 class:       "style1"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic01.jpg"       # config image to post list card (1..6)
+list-image:  "/assets/images/pic08.jpg"       # config image to post list card (1..6)
 description: >                                # site meta description
   Learn how to feed single or multiple guests in a room to a zoom meeting.
 list_description: >
