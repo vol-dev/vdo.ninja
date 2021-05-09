@@ -30,7 +30,7 @@ Enter obs.ninja. Click `Add your camera to OBS`.
 Select your device from the list of devices your browser supports.
 
 <figure>
-<img src="{{site.url}}/assets/screenshots/camera-picker.jpg" title="Photo: Paige Cody - Unsplash"/>
+<img src="{{site.url}}/assets/screenshots/camera-picker.jpg" title="Camera picker"/>
 <figcaption>Camera picker window in OBS.Ninja</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ You will see the video feed of the device on screen, and at the top of the scree
 Copy this view link and send it to someone you want to have access to this feed, or place it inside a 
 OBS browser source.
 
-![OBSN view link](/assets/screenshots/view-link.jpg)
+<img src="{{site.url}}/assets/screenshots/view-link.jpg" title="View Link"/>
 
 ## Cheat Sheet
 
