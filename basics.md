@@ -27,7 +27,9 @@ OBS.Ninja needs 2 thinks to work:
   - Someone viewing that video feed
 
 1.Visit OBS.Ninja with your web browser (Chrome, Edge, Safari)
+
 2.Click `Add your camera to OBS`
+
 3.Select your camera and audio device from the list of devices
 
 <figure>
