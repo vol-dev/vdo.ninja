@@ -10,7 +10,7 @@ order:        3
 
 # POSTS LIST
 class:       "style2"                         # config bg-color to post list card (1..6)
-list-image:  "/assets/images/pic02.jpg"       # config image to post list card (1..6)
+list-image:  "/assets/images/pic03.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
   Get your camera inside OBS.ninja quickly
 
