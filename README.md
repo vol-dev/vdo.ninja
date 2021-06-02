@@ -1,6 +1,6 @@
-# OBS.Ninja guides
+# VDO.Ninja guides
 
-This branch holds multiple OBS.Ninja related guides.
+This branch holds multiple VDO.Ninja related guides.
 
 ## Contribute
 
