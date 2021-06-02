@@ -12,14 +12,14 @@ order:        3
 class:       "style2"                         # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic03.jpg"       # config image to post list card (1..6)
 description: >                                # config description to post list card
-  Get your camera inside OBS.ninja quickly
+  Get your camera inside VDO.ninja quickly
 
 # POST HEADER
 header-image: "/assets/images/pic13.jpg"      # config image to post header
 alt-image:    "image description test post a" # config image description to alt att.
 ---
 
-You can customize the playback of videos by added parameters to the OBS.Ninja URL links, along with many other aspects. The default video bitrate of most modern browsers is around 2500-kbps, which is okay, but we can achieve higher video quality if we manually set this to something even higher.
+You can customize the playback of videos by added parameters to the VDO.Ninja URL links, along with many other aspects. The default video bitrate of most modern browsers is around 2500-kbps, which is okay, but we can achieve higher video quality if we manually set this to something even higher.
 
 `http://obs.ninja/?view=xxxxxxx&bitrate=6000`
 
@@ -34,6 +34,6 @@ Higher resolution streams, especially 1080p60, requires a LOT of CPU power. Havi
 
 Using Ethernet instead of Wi-Fi will also help to ensure the frame loss at these higher resolutions is managable. At higher resolutions, frame rates are more likely to be unstable.
 
-4K30 video is achievable with OBS.Ninja, with a fast enough computer and with very high video bitrates; often in the realm of 30 to 40-mbps.
+4K30 video is achievable with VDO.Ninja, with a fast enough computer and with very high video bitrates; often in the realm of 30 to 40-mbps.
 
-As OBS.Ninja dynamically adjusts video resolution and bitrate to match the available Internet connection bandwidth availability, sometimes 1280x720 video resolutions won't be maintainable. You can run the https://OBS.Ninja/speedtest to see if you are able to hit at least 2000-kbps, which is about what is needed for smooth 720p video.
+As VDO.Ninja dynamically adjusts video resolution and bitrate to match the available Internet connection bandwidth availability, sometimes 1280x720 video resolutions won't be maintainable. You can run the https://VDO.Ninja/speedtest to see if you are able to hit at least 2000-kbps, which is about what is needed for smooth 720p video.
