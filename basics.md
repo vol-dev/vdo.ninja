@@ -19,14 +19,14 @@ list_description: >
 
 # POST HEADER
 header-image: "/assets/screenshots/Site.png"      # config image to post header
-alt-image:    "OBS.Ninja landing page" # config image description to alt att.
+alt-image:    "VDO.Ninja landing page" # config image description to alt att.
 ---
 
-OBS.Ninja needs 2 thinks to work:
+VDO.Ninja needs 2 thinks to work:
   - Someone pushing a video feed out from their device
   - Someone viewing that video feed
 
-1.Visit OBS.Ninja with your web browser (Chrome, Edge, Safari)
+1.Visit VDO.Ninja with your web browser (Chrome, Edge, Safari)
 
 2.Click `Add your camera to OBS`
 
@@ -34,7 +34,7 @@ OBS.Ninja needs 2 thinks to work:
 
 <figure>
 <img src="{{site.url}}/assets/screenshots/camera-picker.jpg" title="Camera picker"/>
-<figcaption>Camera picker window in OBS.Ninja</figcaption>
+<figcaption>Camera picker window in VDO.Ninja</figcaption>
 </figure>
 
 You will see the video feed of the device on screen, and at the top of the screen a 'view' link.
@@ -53,11 +53,11 @@ A printable quickstart guide can be found here:<br />
 
 ## Powered by WebRTC
 
-[WebRTC](https://webrtc.org/)[^1] is the magic behind OBS.Ninja. While the magic sauce is so much more than that, WebRTC powers the engine.
-This way OBS.Ninja works everywhere there is a modern browser. MS Edge, Google Chrome, Mozilla Firefox, Safari, Opera, Vivaldi, Brave. You name it.
+[WebRTC](https://webrtc.org/)[^1] is the magic behind VDO.Ninja. While the magic sauce is so much more than that, WebRTC powers the engine.
+This way VDO.Ninja works everywhere there is a modern browser. MS Edge, Google Chrome, Mozilla Firefox, Safari, Opera, Vivaldi, Brave. You name it.
 
 
 {:.warning}
-OBSN is a peer-to-peer system. This means for each new person viewing your feed, a new encode is processed. It also is CPU bound since encoding usually takes place on the CPU. Take care not to overload your system. Keep an eye on your CPU usage.
+VDON is a peer-to-peer system. This means for each new person viewing your feed, a new encode is processed. It also is CPU bound since encoding usually takes place on the CPU. Take care not to overload your system. Keep an eye on your CPU usage.
 
 [^1]: Web Real-Time Communication
