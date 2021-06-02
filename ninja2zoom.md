@@ -14,7 +14,7 @@ list-image:  "/assets/images/pic08.jpg"       # config image to post list card (
 description: >                                # site meta description
   Learn how to feed single or multiple guests in a room to a zoom meeting.
 list_description: >
-  OBSN rooms in a zoom meeting
+  VDON rooms in a zoom meeting
 
 # POST HEADER
 #header-image: "/assets/images/pic13.jpg"      # config image to post header
@@ -24,12 +24,12 @@ list_description: >
 This guide will take you from having a single or multiple guests in a room and have the output fed to zoom. This includes routing video and audio and managing your guests.
 
 ## Step 1
-Go to https://OBS.Ninja
+Go to https://VDO.Ninja
 
 ## Step 2
 Click the Add Group Chat to OBS button.
 
-![OBS Group Chat](/assets/screenshots/obs-group-chat.png)
+![Group Chat](/assets/screenshots/obs-group-chat.png)
 
 ## Step 3
 Enter a room name and then click the Enter the Room's control Center.  
@@ -62,7 +62,7 @@ If we open the **SCENE LINK** in chrome we can view it to confirm it worked.  We
 ## Step 8
 Next, we **download the Electron Capture app** -- [https://github.com/steveseguin/electroncapture/releases](https://github.com/steveseguin/electroncapture/releases)
 
-The Electron Capture will let us share our video into Zoom without any borders and allow us to capture the audio. It also is optimized in resolution for maximum quality transfer from OBS.Ninja to Zoom.
+The Electron Capture will let us share our video into Zoom without any borders and allow us to capture the audio. It also is optimized in resolution for maximum quality transfer from VDO.Ninja to Zoom.
 
 ## Step 9
 We also want to download and install a Virtual Audio device:
@@ -92,10 +92,10 @@ We can now use the Director Room to control who is in the scene, who is muted, a
 
 ## More information
 
-More on the **ROOM** here: [Getting started: The Room (OBS Ninja Podcast ep02)](https://www.youtube.com/watch?v=m1cIT1kdlEo&list=PLWodc2tCfAH1WHjl4WAOOoRSscJ8CHACe&index=5)
+More on the **ROOM** here: [Getting started: The Room (VDO Ninja Podcast ep02)](https://www.youtube.com/watch?v=m1cIT1kdlEo&list=PLWodc2tCfAH1WHjl4WAOOoRSscJ8CHACe&index=5)
 
 
-More on **Advanced settings** here: [Getting started: Power Parameters (OBS Ninja Podcast ep06)](https://www.youtube.com/watch?v=l9BNTTNY08s&list=PLWodc2tCfAH1WHjl4WAOOoRSscJ8CHACe&index=9)  
+More on **Advanced settings** here: [Getting started: Power Parameters (VDO Ninja Podcast ep06)](https://www.youtube.com/watch?v=l9BNTTNY08s&list=PLWodc2tCfAH1WHjl4WAOOoRSscJ8CHACe&index=9)  
 
 
 And [https://params.obs.ninja](https://params.obs.ninja)
