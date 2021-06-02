@@ -10,9 +10,9 @@ order:        100
 class:       "style3"                         # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic03.jpg"       # config image to post list card (1..6)
 description: >                                # site meta description
-  See how OBSN users are leveraging its capabilities in different and creative ways.
+  See how VDON users are leveraging its capabilities in different and creative ways.
 list_description: >
-  OBSN being used around the world
+  VDON being used around the world
 
 # POST HEADER
 #header-image: "/assets/images/pic09.jpg"      # config image to post header
@@ -20,7 +20,7 @@ list_description: >
 ---
 
 
-# Random collection of community submitted examples of OBS.Ninja
+# Random collection of community submitted examples of VDO.Ninja
 
 (Please feel free to add or remove items from this list)
 
