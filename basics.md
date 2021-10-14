@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "OBS.ninja basics"
+title:        "VDO.Ninja basics"
 date:         2020-12-16 10:00:00 +0000
 author:       "Steve Seguin"
 categories:   basic
@@ -12,7 +12,7 @@ order:        1
 class:       "style1"                         # config bg-color to post list card (1..6)
 list-image:  "/assets/images/pic01.jpg"       # config image to post list card (1..6)
 description: >                                # site meta description
-  Learn what tech powers OBS.ninja, and quickly get up and running.
+  Learn what tech powers VDO.ninja, and quickly get up and running.
 list_description: >
   If lost, start here.
 
