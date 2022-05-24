@@ -64,7 +64,7 @@ input{
 <div id="container2"></div>
 <div id="container1" ></div>
 <div id="clean">
-	<input placeholder="Enter a VDON stream ID" id="viewlink" type="text" />
+	<input placeholder="Enter a VDON stream ID or VDON URL" id="viewlink" type="text" />
 	<input placeholder="Enter the Twitch channel name" id="twitch" type="text" />
 	<button onclick="loadIframes()" style="display:block;padding:10px;margin:10px;">START</button>
 </div>
@@ -85,8 +85,13 @@ function loadIframes(url=false){
 	document.getElementById("container2").style.display="inline-block";
 	
 	var path = window.location.host+window.location.pathname.split("/").slice(0,-1).join("/");
+	path = path.replace("/examples","");
 	
-	var room1 = "https://"+path+"/?push="+roomname+"&webcam&autostart&vd=front&ad=1&transparent&noheader";
+	if (roomname.startsWith("https://")){
+		var room1 = roomname;
+	} else {
+		var room1 = "https://"+path+"/?push="+roomname+"&webcam&autostart&vd=front&ad=1&transparent&noheader";
+	}
 	var room2 = "https://www.twitch.tv/embed/"+twitch+"/chat?parent="+location.hostname;
 	var iframe = document.createElement("iframe");
 	iframe.allow = "autoplay;camera;microphone;fullscreen;picture-in-picture;";
